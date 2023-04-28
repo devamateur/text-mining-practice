@@ -1,4 +1,4 @@
 alice.png
 const.png
-.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
 data/petition_sampled.csv
